@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calculations">Age Calculations</string>
+
+    <string name="dogStr">Your age in dog years is: </string>
+    <string name="weekStr">Your age in weeks is: </string>
+    <string name="dayStr">Your age in days is: </string>
+    <string name="hourStr">Your age in hours is: </string>
+    <string name="minuteStr">Your age in minutes is: </string>
+    <string name="secondStr">Your age in seconds is: </string>
+</resources>
